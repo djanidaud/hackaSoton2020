@@ -4,7 +4,7 @@ A Smart Recipe Book application. You simply log the items that you would like to
 # Other Team Members:
 1) Philip Stambolov ps1g19@soton.ac.uk
 2) Raya Bakarska rb1u19@soton.ac.uk
-3) Velina Ivanova vv1u19@soton.ac.uk
+3) Velina Valcheva vv1u19@soton.ac.uk
 
 # The End Product
 ![](demo.gif)
